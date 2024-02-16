@@ -1,0 +1,13 @@
+{
+  "name": "odyssey-voyage",
+  "description": "This is a practice course for obtaining the [Apollo Graph Developer - Professional Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}

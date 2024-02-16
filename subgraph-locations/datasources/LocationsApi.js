@@ -1,13 +1,13 @@
-const {locations} = require('./locations_data.json');
+const { locations } = require('./locations_data.json');
 
 class LocationsAPI {
-  getAllLocations() {
-    return locations;
-  }
+	getAllLocations() {
+		return locations;
+	}
 
-  getLocation(id) {
-    return locations.find(l => l.id === id);
-  }
+	getLocation(id) {
+		return locations.find((l) => l.id === id);
+	}
 }
 
 module.exports = LocationsAPI;
