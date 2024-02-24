@@ -1,5 +1,5 @@
-# Course "Odyssey Voyage"
+# Course "Odyssey Voyage I"
 
-This is a practice course for obtaining the [Apollo Graph Developer - Professional Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional)
+This is the first practice course for obtaining the [Apollo Graph Developer - Professional Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional)
 
 ---
